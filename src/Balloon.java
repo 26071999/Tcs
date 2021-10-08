@@ -8,7 +8,7 @@ public class Balloon {
         int lower[]=new int[26];
         int upper[]=new int[26];
        System.out.println("HEllo");
-         System.out.println("rebase into the feature branch using Intellij");
+         System.out.println("rebase into the feature branch using Eclipse");
         
        /* for(int i=0;i<n;i++){
             if(i)
