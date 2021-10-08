@@ -7,6 +7,7 @@ public class Balloon {
         char charArr[]=new char[n];
         int lower[]=new int[26];
         int upper[]=new int[26];
+       System.out.println("HEllo");
        /* for(int i=0;i<n;i++){
             if(i)
         }*/

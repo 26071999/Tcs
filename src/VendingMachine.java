@@ -45,6 +45,7 @@ public class VendingMachine {
             case "C":
                 if(subMenu<=subCoffeeItem.size()) {
                     System.out.println("WelCome to CCD!");
+                    System.out.println("Hello");
                     System.out.println("Enjoy your "+subCoffeeItem.get(subMenu)+"!");
 
                 }
