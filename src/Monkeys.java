@@ -12,6 +12,7 @@ public class Monkeys {
         if(n<0&&k<0||j<0||m<0||p<0){
             System.out.println("INVALID INPUT");
             System.out.println("Make it simple");
+            System.out.println("Hello HI");
         }
          /*else {
             if(tr){
