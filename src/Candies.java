@@ -16,6 +16,8 @@ public class Candies {
             else {
                 System.out.println("INVALID INPUT");
                 System.out.println("NUMBER OF CANDIES LEFT :"+N);
+                 System.out.println("Hi Hello");
+                
         }
     }
 }
