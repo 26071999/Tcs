@@ -10,6 +10,8 @@ public class Candies {
                 int remaining=N-input;
                     System.out.println("NUMBER OF CANDIES SOLD :"+input);
                     System.out.println("NUMBER OF CANDIES AVAILABLE :"+ remaining);
+                 System.out.println("Hello everyone");
+
             }
             else {
                 System.out.println("INVALID INPUT");
